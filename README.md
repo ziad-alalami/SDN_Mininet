@@ -1,4 +1,4 @@
-# Lab 3: Building Your Own Network with SDN
+# Building Your Own Network with SDN
 
 ## Content
 
